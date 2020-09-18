@@ -1,4 +1,9 @@
 ### Hi there 👋
+- My Portfolio page: https://ariel-yeung.github.io/
+
+- 🌱 I’m currently learning machine learning, Javascript, and web/mobile app development.
+
+- 🔭 I’m currently looking for software engineering internships from April to September 2021.
 
 <!--
 **Ariel-Yeung/Ariel-Yeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
