@@ -13,4 +13,5 @@ Connect with me on <a href= "https://www.linkedin.com/in/man-yi-ariel-yeung-4579
 #### ⚡ Fun facts
 - I speak fluent Chinese :100:
 - I am learning German
+- My favorite motivational saying: "Ich verliere nicht. Entweder ich gewinne, oder ich lerne." or "I don’t lose. Either I win, or I learn."
 - I like playing piano, basketball, painting and wall climbing (even thought I am acrophobic	:smile:).
