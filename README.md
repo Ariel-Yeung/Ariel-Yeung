@@ -6,8 +6,6 @@ Check out my <a href="https://ariel-yeung.github.io/" target="_blank">Portfolio 
 
 - 🌱 I’m currently learning machine learning, Javascript, and web/mobile app development.
 
-- 🔭 I’m currently looking for software engineering internships from April to September 2021.
-
 #### ⚡ Fun facts
 - I speak fluent Chinese :100:, and I am currently learning German.
 - My favorite motivational saying: :star: "Ich verliere nicht. Entweder ich gewinne, oder ich lerne." or "I don’t lose. Either I win, or I learn." 
