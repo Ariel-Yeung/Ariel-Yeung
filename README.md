@@ -1,7 +1,5 @@
 ### Hi there 👋
-Check out my <a href="https://ariel-yeung.github.io/" target="_blank">Portfolio page</a>
-
-Connect with me on <a href= "https://www.linkedin.com/in/man-yi-ariel-yeung-45793313a">Linkedin</a>
+Check out my <a href="https://ariel-yeung.github.io/" target="_blank">Portfolio page</a>; Connect with me on <a href= "https://www.linkedin.com/in/man-yi-ariel-yeung-45793313a">Linkedin</a>
 
 #### About me
 - :open_book: I am a student at Drexel University, enrolled in a 5-year BS/MS program with MS in cybersecurity (Computer Science track) and BS in chemical engineering. Expected graduation: June 2022
